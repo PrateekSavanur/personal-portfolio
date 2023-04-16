@@ -8,7 +8,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi , My name is Prateek Savanur</h2>
+        <h2>Hi , I am Prateek Savanur</h2>
         <div className="prompt">
           <p>Student in DSCE. Passionate about Blockchain technologies</p>
           <a href="https://linkedin.com/in/prateek-p-savanur-50b78b24a">
