@@ -11,20 +11,14 @@ function Home() {
         <h2>Hi , My name is Prateek Savanur</h2>
         <div className="prompt">
           <p>Student in DSCE. Passionate about Blockchain technologies</p>
-          <a
-            href="https://linkedin.com/in/prateek-p-savanur-50b78b24a"
-            target="_blank"
-          >
+          <a href="https://linkedin.com/in/prateek-p-savanur-50b78b24a">
             <LinkedInIcon />
           </a>
 
-          <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=prateek.savanur@gmail.com"
-            target="_blank"
-          >
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=prateek.savanur@gmail.com">
             <EmailIcon />
           </a>
-          <a href="https://github.com/PrateekSavanur" target="_blank">
+          <a href="https://github.com/PrateekSavanur">
             <GithubIcon />
           </a>
         </div>
