@@ -26,6 +26,6 @@ export const projectList = [
     name: "Basic NFT",
     image: NFT,
     skills: "Solidity, Hardhat",
-    link: "https://github.com/PrateekSavanur/NFT",
+    link: "https://github.com/PrateekSavanur/NFT-hardhat",
   },
 ];
